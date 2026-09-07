@@ -71,6 +71,6 @@ If you do not agree with these terms, you must not use, reproduce, distribute, m
 
 **Copyright © 2026. All rights reserved.**
 
-**Repository Owner:** [Your Name]
-**GitHub Repository:** [Repository Name]
-**Contact:** [Your Contact Information]
+**Repository Owner:** [Philip Earl C. Mcalma]
+**GitHub Repository:** [Macalma CAD Stuff]
+**Contact:** [pecmacalmca@gmail.com]
